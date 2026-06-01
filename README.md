@@ -84,7 +84,7 @@ Arquitetura completa de dados na **Google Cloud Platform**, desenvolvida em equi
 
 <div align="center">
 
-[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Database_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://google.com/certification)
+[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Database_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/8e55727d-1d19-465f-99d5-d463966f2d87/public_url)
 
 **Credencial verificável** &nbsp;·&nbsp; Emitida em **Março 2025** &nbsp;·&nbsp; Válida até **Março 2027**
 
