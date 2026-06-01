@@ -90,12 +90,3 @@ Arquitetura completa de dados na **Google Cloud Platform**, desenvolvida em equi
 
 </div>
 
----
-
-## Troféus GitHub
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jIDvDIj&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/jIDvDIj)
-
-</div>
